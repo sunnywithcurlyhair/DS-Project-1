@@ -5,10 +5,8 @@
 * Air Carrier
 * Publication Date
 * Purpose of flight
-* Location
 * Latitude 
 * Longitude
-* Event Date
 * Accident Number
 * Event Id
 * Airport Code 
