@@ -388,6 +388,7 @@
 20177,21626,Incident,1988-10-06,"NEWARK, NJ",United States,Incident,Minor,,Boeing,727100,No,3.0,Turbo Jet,SCHD,0.0,0.0,0.0,3.0,VMC,Takeoff,Probable Cause,1988,Boeing-727100,3.0,0.0,0.0,100.0
 20224,21679,Incident,1988-10-12,"YARDLEY, PA",United States,Incident,,,Boeing,707300,No,4.0,Turbo Fan,UNK,0.0,0.0,0.0,39.0,VMC,Descent,Probable Cause,1988,Boeing-707300,39.0,0.0,0.0,100.0
 20258,21719,Incident,1988-10-17,ST. THOMAS,,Incident,Minor,,Boeing,727200,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,131.0,VMC,Landing,Probable Cause,1988,Boeing-727200,131.0,0.0,0.0,100.0
+20302,21765,Incident,1988-10-24,"SPRINGFIELD, MO",United States,Incident,Minor,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,11.0,VMC,Cruise,Probable Cause,1988,Saab_Scania-340A,11.0,0.0,0.0,100.0
 20304,21767,Incident,1988-10-24,"CHICAGO, IL",United States,Incident,Minor,,Boeing,B727200A,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,80.0,VMC,Takeoff,Probable Cause,1988,Boeing-B727200A,80.0,0.0,0.0,100.0
 20350,21816,Accident,1988-11-03,"BRIDGETOWN, Bahamas",Bahamas,Non-Fatal,,,Boeing,B747123,No,4.0,Turbo Fan,SCHD,0.0,1.0,0.0,211.0,VMC,Cruise,Probable Cause,1988,Boeing-B747123,212.0,0.0,0.4716981132075472,99.52830188679243
 20372,21841,Incident,1988-11-06,"HOUSTON, TX",United States,Incident,,,Boeing,727,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,53.0,VMC,Approach,Probable Cause,1988,Boeing-727,53.0,0.0,0.0,100.0
@@ -498,6 +499,7 @@
 24846,26657,Accident,1990-09-20,"MARANA, AZ",United States,Fatal(1),Destroyed,,Boeing,707321B,No,4.0,Turbo Fan,,1.0,2.0,0.0,0.0,VMC,Takeoff,Probable Cause,1990,Boeing-707321B,3.0,33.33333333333333,66.66666666666666,0.0
 24922,26736,Accident,1990-09-28,"DETROIT, MI",United States,Non-Fatal,Minor,,Boeing,727251,No,3.0,Turbo Fan,SCHD,0.0,2.0,2.0,128.0,VMC,Taxi,Probable Cause,1990,Boeing-727251,132.0,0.0,1.5151515151515151,98.48484848484848
 25007,26828,Accident,1990-10-12,"WATSONVILLE, CA",United States,Non-Fatal,Minor,,Boeing,B75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,3.0,VMC,Standing,Probable Cause,1990,Boeing-B75N1,3.0,0.0,0.0,100.0
+25136,26970,Incident,1990-11-10,"MEMPHIS, TN",United States,Incident,,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,3.0,VMC,Cruise,Probable Cause,1990,Saab_Scania-340A,3.0,0.0,0.0,100.0
 25255,27097,Accident,1990-12-03,"ROMULUS, MI",United States,Fatal(8),Substantial,,Boeing,727251,No,3.0,Turbo Fan,SCHD,8.0,10.0,26.0,154.0,IMC,Takeoff,Probable Cause,1990,Boeing-727251,198.0,4.040404040404041,5.05050505050505,90.9090909090909
 25262,27105,Incident,1990-12-05,"DETROIT, MI",United States,Incident,Minor,,Boeing,727257,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,76.0,VMC,Standing,Probable Cause,1990,Boeing-727257,76.0,0.0,0.0,100.0
 25325,27170,Incident,1990-12-19,"DENVER, CO",United States,Incident,Minor,,Boeing,72722,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,125.0,IMC,Takeoff,Probable Cause,1990,Boeing-72722,125.0,0.0,0.0,100.0
@@ -582,6 +584,7 @@
 28927,31145,Accident,1992-08-11,"NEWARK, NJ",United States,Non-Fatal,Substantial,,Boeing,747238,No,4.0,Turbo Fan,SCHD,0.0,0.0,0.0,361.0,VMC,Taxi,Probable Cause,1992,Boeing-747238,361.0,0.0,0.0,100.0
 29029,31255,Accident,1992-08-23,"CHICAGO, IL",United States,Fatal(1),,,Boeing,747300,No,4.0,Turbo Fan,SCHD,1.0,1.0,0.0,277.0,VMC,Standing,Probable Cause,1992,Boeing-747300,279.0,0.35842293906810035,0.35842293906810035,99.2831541218638
 29054,31280,Accident,1992-08-26,"MIAMI, FL",United States,Non-Fatal,,,Boeing,737200,No,2.0,Turbo Jet,SCHD,0.0,1.0,2.0,92.0,VMC,Standing,Probable Cause,1992,Boeing-737200,95.0,0.0,1.0526315789473684,98.94736842105264
+29085,31314,Incident,1992-08-31,"CHATTANOOGA, TN",United States,Incident,,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,25.0,VMC,Cruise,Probable Cause,1992,Saab_Scania-340B,25.0,0.0,0.0,100.0
 29167,31404,Accident,1992-09-10,"OTTAWA, IL",United States,Non-Fatal,Substantial,,Boeing,A75,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Landing,Probable Cause,1992,Boeing-A75,2.0,0.0,0.0,100.0
 29233,31479,Incident,1992-09-19,"RIO DE JANEIRO, Brazil",Brazil,Incident,Minor,,Boeing,747287,No,0.0,Unknown,SCHD,0.0,0.0,0.0,191.0,VMC,,Foreign,1992,Boeing-747287,191.0,0.0,0.0,100.0
 29263,31513,Accident,1992-09-23,"BELVIDERE, IL",United States,Non-Fatal,Substantial,,Boeing,B75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Landing,Probable Cause,1992,Boeing-B75N1,1.0,0.0,0.0,100.0
@@ -593,6 +596,7 @@
 29580,31865,Accident,1992-11-27,"CHICAGO, IL",United States,Non-Fatal,,,Boeing,727232,No,3.0,Turbo Fan,SCHD,0.0,1.0,5.0,118.0,VMC,Standing,Probable Cause,1992,Boeing-727232,124.0,0.0,0.8064516129032258,99.19354838709677
 29630,31916,Accident,1992-12-08,"FLUSHING, NY",United States,Fatal(1),,,Boeing,737300Lr,No,2.0,Turbo Fan,SCHD,1.0,0.0,0.0,59.0,VMC,Taxi,Probable Cause,1992,Boeing-737300Lr,60.0,1.6666666666666667,0.0,98.33333333333331
 29663,31949,Incident,1992-12-17,"MIAMI, FL",United States,Incident,Minor,,Boeing,727225A,No,3.0,Turbo Jet,SCHD,0.0,0.0,2.0,78.0,VMC,Descent,Probable Cause,1992,Boeing-727225A,80.0,0.0,0.0,100.0
+29738,32033,Accident,1993-01-02,"HIBBING, MN",United States,Non-Fatal,Substantial,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,31.0,IMC,Landing,Probable Cause,1993,Saab_Scania-340A,31.0,0.0,0.0,100.0
 29749,32044,Accident,1993-01-05,"SARASOTA, FL",United States,Non-Fatal,Minor,,Boeing,767323Er,No,2.0,Turbo Fan,SCHD,0.0,3.0,21.0,200.0,IMC,Cruise,Probable Cause,1993,Boeing-767323Er,224.0,0.0,1.3392857142857142,98.66071428571428
 29761,32056,Incident,1993-01-08,"DENVER, CO",United States,Incident,,,Boeing,767222,No,2.0,Unknown,SCHD,0.0,0.0,0.0,208.0,VMC,Cruise,Probable Cause,1993,Boeing-767222,208.0,0.0,0.0,100.0
 29790,32087,Accident,1993-01-16,"SAN ANTONIO, TX",United States,Non-Fatal,Substantial,,Boeing,A75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Landing,Probable Cause,1993,Boeing-A75N1,1.0,0.0,0.0,100.0
@@ -647,6 +651,7 @@
 31830,34339,Incident,1994-01-01,"MIAMI, FL",United States,Incident,,,Boeing,767322,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,169.0,VMC,Standing,Probable Cause,1994,Boeing-767322,169.0,0.0,0.0,100.0
 31872,34385,Accident,1994-01-16,"ZELLWOOD, FL",United States,Non-Fatal,Substantial,,Boeing,A75N1,No,1.0,Reciprocating,,0.0,1.0,0.0,0.0,VMC,Approach,Probable Cause,1994,Boeing-A75N1,1.0,0.0,100.0,0.0
 31884,34398,Incident,1994-01-19,"LITTLE ROCK, AR",United States,Incident,Minor,,Boeing,7372H4,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,67.0,VMC,Takeoff,Probable Cause,1994,Boeing-7372H4,67.0,0.0,0.0,100.0
+31940,34455,Accident,1994-02-01,"NEW ROADS, LA",United States,Non-Fatal,Substantial,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,1.0,25.0,VMC,Descent,Probable Cause,1994,Saab_Scania-340B,26.0,0.0,0.0,100.0
 31974,34493,Incident,1994-02-09,"CHICAGO, IL",United States,Incident,Minor,,Boeing,737130,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,100.0,VMC,Landing,Probable Cause,1994,Boeing-737130,100.0,0.0,0.0,100.0
 31984,34504,Incident,1994-02-11,"CHARLOTTE, NC",United States,Incident,,,Boeing,Dhc8102,No,2.0,Turbo Prop,SCHD,0.0,0.0,2.0,10.0,IMC,Approach,Probable Cause,1994,Boeing-Dhc8102,12.0,0.0,0.0,100.0
 31989,34509,Accident,1994-02-12,PACIFIC OCEAN,PACIFIC OCEAN,Non-Fatal,,,Boeing,747400,No,4.0,Turbo Fan,SCHD,0.0,1.0,0.0,408.0,VMC,Cruise,Probable Cause,1994,Boeing-747400,409.0,0.0,0.2444987775061125,99.75550122249388
@@ -655,7 +660,9 @@
 32202,34735,Accident,1994-03-19,"CHAMBLEE, GA",United States,Non-Fatal,Substantial,,Boeing,Pt17,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Landing,Probable Cause,1994,Boeing-Pt17,2.0,0.0,0.0,100.0
 32256,34793,Incident,1994-04-02,"ORLANDO, FL",United States,Incident,Minor,,Boeing,727243,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,150.0,VMC,Approach,Probable Cause,1994,Boeing-727243,150.0,0.0,0.0,100.0
 32387,34944,Incident,1994-04-26,"HONOLULU, HI",United States,Incident,,,Boeing,737209,No,2.0,Turbo Jet,SCHD,0.0,0.0,1.0,58.0,VMC,Approach,Probable Cause,1994,Boeing-737209,59.0,0.0,0.0,100.0
+32420,34982,Incident,1994-05-03,"NASHVILLE, TN",United States,Incident,,,Saab_Scania,S340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,16.0,IMC,Cruise,Probable Cause,1994,Saab_Scania-S340B,16.0,0.0,0.0,100.0
 32452,35016,Accident,1994-05-08,"SANDWICH, IL",United States,Non-Fatal,Substantial,,Boeing,B75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Landing,Probable Cause,1994,Boeing-B75N1,2.0,0.0,0.0,100.0
+32464,35028,Incident,1994-05-12,"TEXARKANA, AR",United States,Incident,Minor,,Saab_Scania,Sf34Ob,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,28.0,VMC,Takeoff,Probable Cause,1994,Saab_Scania-Sf34Ob,28.0,0.0,0.0,100.0
 32476,35041,Accident,1994-05-14,"PEYTON, CO",United States,Fatal(2),Destroyed,,Boeing,E75N1,No,1.0,Reciprocating,,2.0,0.0,0.0,0.0,VMC,Maneuvering,Probable Cause,1994,Boeing-E75N1,2.0,100.0,0.0,0.0
 32534,35107,Accident,1994-05-22,"DEMING, NM",United States,Non-Fatal,Substantial,,Boeing,B75,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Landing,Probable Cause,1994,Boeing-B75,2.0,0.0,0.0,100.0
 32625,35209,Accident,1994-06-03,"NEW PARIS, IN",United States,Non-Fatal,Substantial,,Boeing,A75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Landing,Probable Cause,1994,Boeing-A75N1,1.0,0.0,0.0,100.0
@@ -706,6 +713,7 @@
 34715,37523,Accident,1995-06-20,"CHAMPAGNE, IL",United States,Non-Fatal,,,Boeing,767222,No,2.0,Turbo Fan,SCHD,0.0,4.0,0.0,144.0,VMC,Cruise,Probable Cause,1995,Boeing-767222,148.0,0.0,2.702702702702702,97.2972972972973
 34796,37617,Incident,1995-06-29,"ELKO, NV",United States,Incident,Minor,,Boeing,737200,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,84.0,VMC,Descent,Probable Cause,1995,Boeing-737200,84.0,0.0,0.0,100.0
 34838,37662,Incident,1995-07-04,"LAS VEGAS, NV",United States,Incident,Minor,,Boeing,727257,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,53.0,VMC,Landing,Probable Cause,1995,Boeing-727257,53.0,0.0,0.0,100.0
+34848,37672,Incident,1995-07-05,"TEMPLE, TX",United States,Incident,Minor,,Saab_Scania,Sf340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,6.0,VMC,Takeoff,Probable Cause,1995,Saab_Scania-Sf340A,6.0,0.0,0.0,100.0
 34965,37804,Incident,1995-07-18,"ORLANDO, FL",United States,Incident,,,Boeing,7373B7,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,120.0,VMC,Descent,Probable Cause,1995,Boeing-7373B7,120.0,0.0,0.0,100.0
 35041,37889,Accident,1995-07-28,"DALLAS, TX",United States,Non-Fatal,Minor,,Boeing,7373A4,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,99.0,VMC,Taxi,Probable Cause,1995,Boeing-7373A4,99.0,0.0,0.0,100.0
 35077,37929,Accident,1995-08-01,"VAN NUYS, CA",United States,Non-Fatal,Substantial,,Boeing,B75A75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Landing,Probable Cause,1995,Boeing-B75A75N1,1.0,0.0,0.0,100.0
@@ -715,6 +723,7 @@
 35138,37992,Accident,1995-08-09,"SAN VICENTE, El Salvador",El Salvador,Fatal(65),Destroyed,,Boeing,737200,No,,Unknown,SCHD,65.0,0.0,0.0,0.0,IMC,,Foreign,1995,Boeing-737200,65.0,100.0,0.0,0.0
 35193,38053,Incident,1995-08-14,"JAMAICA, NY",United States,Incident,Minor,,Boeing,747130,No,4.0,Turbo Fan,SCHD,0.0,0.0,0.0,436.0,VMC,Climb,Probable Cause,1995,Boeing-747130,436.0,0.0,0.0,100.0
 35197,38059,Accident,1995-08-14,"ENGLEWOOD, CO",United States,Non-Fatal,Substantial,,Boeing,B75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Landing,Probable Cause,1995,Boeing-B75N1,1.0,0.0,0.0,100.0
+35227,38089,Accident,1995-08-17,"PHILADELPHIA, PA",United States,Non-Fatal,Substantial,,Saab_Scania,Sf340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,31.0,VMC,Standing,Probable Cause,1995,Saab_Scania-Sf340A,31.0,0.0,0.0,100.0
 35234,38096,Incident,1995-08-18,"LUBBOCK, TX",United States,Incident,Minor,,Boeing,7373H4,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,114.0,VMC,Takeoff,Probable Cause,1995,Boeing-7373H4,114.0,0.0,0.0,100.0
 35291,38159,Accident,1995-08-24,"EVADALE, TX",United States,Non-Fatal,Substantial,,Boeing,A75N1,No,1.0,Reciprocating,,0.0,0.0,1.0,0.0,VMC,Cruise,Probable Cause,1995,Boeing-A75N1,1.0,0.0,0.0,100.0
 35292,38160,Incident,1995-08-25,"FORT LAUDERDALE, FL",United States,Incident,,,Boeing,7373B7,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,50.0,VMC,Descent,Probable Cause,1995,Boeing-7373B7,50.0,0.0,0.0,100.0
@@ -731,6 +740,7 @@
 35707,38631,Accident,1995-11-04,"WAUCHULA, FL",United States,Non-Fatal,Substantial,,Boeing,E75N1,No,1.0,Reciprocating,,0.0,0.0,2.0,0.0,VMC,Cruise,Probable Cause,1995,Boeing-E75N1,2.0,0.0,0.0,100.0
 35714,38638,Accident,1995-11-07,"PENSACOLA, FL",United States,Non-Fatal,,,Boeing,737200,No,2.0,Turbo Fan,SCHD,0.0,1.0,0.0,58.0,IMC,Descent,Probable Cause,1995,Boeing-737200,59.0,0.0,1.6949152542372878,98.30508474576271
 35715,38640,Incident,1995-11-07,"PANAMA CITY, Panama",Panama,Incident,Minor,Airplane,Boeing,B727224,No,,Unknown,SCHD,0.0,0.0,2.0,10.0,UNK,,Foreign,1995,Boeing-B727224,12.0,0.0,0.0,100.0
+35752,38680,Incident,1995-11-17,"CORSICANA, TX",United States,Incident,,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,33.0,VMC,Descent,Probable Cause,1995,Saab_Scania-340B,33.0,0.0,0.0,100.0
 35782,38716,Accident,1995-11-25,"PORTLAND, OR",United States,Non-Fatal,,,Boeing,737522,No,2.0,Turbo Fan,SCHD,0.0,1.0,0.0,111.0,VMC,Descent,Probable Cause,1995,Boeing-737522,112.0,0.0,0.8928571428571428,99.10714285714286
 35809,38745,Accident,1995-11-29,"CHINO, CA",United States,Non-Fatal,Substantial,,Boeing,B75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Maneuvering,Probable Cause,1995,Boeing-B75N1,1.0,0.0,0.0,100.0
 35826,38766,Accident,1995-12-03,"DOUALA, Cameroon",Cameroon,Fatal(72),Destroyed,,Boeing,B737200,No,,Unknown,SCHD,72.0,5.0,0.0,0.0,VMC,,Foreign,1995,Boeing-B737200,77.0,93.5064935064935,6.493506493506493,0.0
@@ -773,13 +783,16 @@
 36825,39859,Incident,1996-06-19,"SALT LAKE CITY, UT",United States,Incident,Minor,,Boeing,767332,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,186.0,VMC,Taxi,Probable Cause,1996,Boeing-767332,186.0,0.0,0.0,100.0
 36847,39883,Accident,1996-06-22,"GRANITE, CO",United States,Non-Fatal,,,Boeing,737201,No,2.0,Turbo Jet,SCHD,0.0,1.0,2.0,95.0,VMC,Descent,Probable Cause,1996,Boeing-737201,98.0,0.0,1.020408163265306,98.9795918367347
 36865,39905,Incident,1996-06-25,"JAMAICA, NY",United States,Incident,Minor,,Boeing,767332Er,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,229.0,VMC,Takeoff,Probable Cause,1996,Boeing-767332Er,229.0,0.0,0.0,100.0
+36917,39963,Accident,1996-07-01,"DFW AIRPORT, TX",United States,Non-Fatal,Substantial,,Saab_Scania,Sf340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,15.0,VMC,Takeoff,Probable Cause,1996,Saab_Scania-Sf340B,15.0,0.0,0.0,100.0
 36977,40026,Accident,1996-07-08,"NASHVILLE, TN",United States,Non-Fatal,Minor,,Boeing,737200,No,2.0,Turbo Fan,SCHD,0.0,1.0,4.0,122.0,IMC,Takeoff,Probable Cause,1996,Boeing-737200,127.0,0.0,0.7874015748031495,99.21259842519686
+36998,40050,Accident,1996-07-11,"PROVIDENCE, RI",United States,Non-Fatal,,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,1.0,0.0,21.0,VMC,Standing,Probable Cause,1996,Saab_Scania-340A,22.0,0.0,4.545454545454546,95.45454545454544
 37045,40104,Accident,1996-07-17,"EAST MORICHES, NY",United States,Fatal(230),Destroyed,,Boeing,747131,No,4.0,Turbo Fan,SCHD,230.0,0.0,0.0,0.0,VMC,Climb,Probable Cause,1996,Boeing-747131,230.0,100.0,0.0,0.0
 37077,40142,Accident,1996-07-21,"EAST TROY, WI",United States,Non-Fatal,Substantial,,Boeing,A75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Landing,Probable Cause,1996,Boeing-A75N1,2.0,0.0,0.0,100.0
 37130,40204,Accident,1996-07-29,"TRACY, CA",United States,Non-Fatal,Destroyed,,Boeing,A75N1,No,1.0,Reciprocating,UNK,0.0,0.0,0.0,1.0,VMC,Cruise,Probable Cause,1996,Boeing-A75N1,1.0,0.0,0.0,100.0
 37252,40341,Incident,1996-08-14,"FLUSHING, NY",United States,Incident,,,Boeing,727232,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,139.0,VMC,Climb,Probable Cause,1996,Boeing-727232,139.0,0.0,0.0,100.0
 37261,40350,Incident,1996-08-15,"HOWARD BEACH, NY",United States,Incident,Minor,,Boeing,727232,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,112.0,VMC,Approach,Probable Cause,1996,Boeing-727232,112.0,0.0,0.0,100.0
 37356,40453,Accident,1996-08-29,"CHATTANOOGA, TN",United States,Non-Fatal,Minor,,Boeing,737300,No,2.0,Turbo Fan,SCHD,0.0,3.0,1.0,84.0,VMC,Cruise,Probable Cause,1996,Boeing-737300,88.0,0.0,3.4090909090909087,96.5909090909091
+37483,40594,Accident,1996-09-20,"FORT SMITH, AR",United States,Non-Fatal,,,Saab_Scania,Sf340B,No,2.0,Turbo Prop,SCHD,0.0,1.0,0.0,26.0,VMC,Standing,Probable Cause,1996,Saab_Scania-Sf340B,27.0,0.0,3.7037037037037033,96.29629629629628
 37545,40663,Accident,1996-10-02,"LIMA, Peru",Peru,Fatal(70),Destroyed,,Boeing,B75723A,No,2.0,Turbo Jet,SCHD,70.0,0.0,0.0,0.0,IMC,,Foreign,1996,Boeing-B75723A,70.0,100.0,0.0,0.0
 37653,40783,Accident,1996-10-22,"MANTA, Ecuador",Ecuador,Fatal(34),Destroyed,,Boeing,707323,No,,Unknown,NSCH,34.0,50.0,0.0,0.0,VMC,,Foreign,1996,Boeing-707323,84.0,40.476190476190474,59.523809523809526,0.0
 37740,40882,Accident,1996-11-12,"New Delhi, India",India,Fatal(349),,,Boeing,747168,No,,,SCHD,349.0,0.0,0.0,0.0,UNK,,Foreign,1996,Boeing-747168,349.0,100.0,0.0,0.0
@@ -815,6 +828,7 @@
 38461,41665,Accident,1997-04-28,"ATLANTA, GA",United States,Non-Fatal,,,Boeing,737200,No,2.0,Turbo Fan,SCHD,0.0,1.0,7.0,74.0,IMC,Climb,Probable Cause,1997,Boeing-737200,82.0,0.0,1.2195121951219512,98.78048780487805
 38491,41704,Accident,1997-05-04,"DENVER, CO",United States,Non-Fatal,,Airplane,Boeing,737201,No,2.0,Turbo Jet,SCHD,0.0,1.0,0.0,96.0,VMC,Standing,Probable Cause,1997,Boeing-737201,97.0,0.0,1.0309278350515465,98.96907216494844
 38539,41755,Incident,1997-05-11,"CORPUS CHRISTI, TX",United States,Incident,,,Boeing,737524,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,59.0,VMC,Landing,Probable Cause,1997,Boeing-737524,59.0,0.0,0.0,100.0
+38552,41768,Incident,1997-05-13,"SAN LUIS OBISPO, CA",United States,Incident,,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,21.0,VMC,Takeoff,Probable Cause,1997,Saab_Scania-340B,21.0,0.0,0.0,100.0
 38557,41773,Accident,1997-05-14,"LONDON, United Kingdom",United Kingdom,Non-Fatal,Minor,Airplane,Boeing,747400,No,4.0,Turbo Fan,SCHD,0.0,0.0,0.0,573.0,VMC,,Foreign,1997,Boeing-747400,573.0,0.0,0.0,100.0
 38558,41774,Accident,1997-05-14,"LONDON, UNITED KINGDOM",United Kingdom,Non-Fatal,Substantial,Airplane,Boeing,B777,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,573.0,VMC,,Foreign,1997,Boeing-B777,573.0,0.0,0.0,100.0
 38613,41831,Accident,1997-05-22,"NEWARK, NJ",United States,Non-Fatal,Substantial,,Boeing,767300,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,168.0,VMC,Landing,Probable Cause,1997,Boeing-767300,168.0,0.0,0.0,100.0
@@ -831,6 +845,7 @@
 39080,42361,Accident,1997-07-30,"LONE ROCK, WI",United States,Non-Fatal,Substantial,,Boeing,B75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Landing,Probable Cause,1997,Boeing-B75N1,1.0,0.0,0.0,100.0
 39093,42381,Accident,1997-08-02,"LIMA, Peru",Peru,Fatal(1),,Airplane,Boeing,757200,No,,Unknown,SCHD,1.0,0.0,0.0,149.0,UNK,,Foreign,1997,Boeing-757200,150.0,0.6666666666666667,0.0,99.33333333333331
 39120,42415,Accident,1997-08-06,"NIMITZ HILL, GU",United States,Fatal(228),Destroyed,Airplane,Boeing,747300,No,4.0,Turbo Fan,SCHD,228.0,26.0,0.0,0.0,IMC,Approach,Probable Cause,1997,Boeing-747300,254.0,89.76377952755905,10.236220472440944,0.0
+39158,42456,Incident,1997-08-11,"LAFAYETTE, LA",United States,Incident,Minor,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,35.0,VMC,Taxi,Probable Cause,1997,Saab_Scania-340B,35.0,0.0,0.0,100.0
 39224,42525,Incident,1997-08-21,"TAMPA, FL",United States,Incident,Minor,,Boeing,737300,No,2.0,Turbo Fan,SCHD,0.0,0.0,2.0,74.0,VMC,Descent,Probable Cause,1997,Boeing-737300,76.0,0.0,0.0,100.0
 39368,42690,Accident,1997-09-14,"GRAND FORKS, ND",United States,Non-Fatal,,,Boeing,747422,No,4.0,Turbo Fan,SCHD,0.0,1.0,1.0,322.0,IMC,Cruise,Probable Cause,1997,Boeing-747422,324.0,0.0,0.308641975308642,99.69135802469135
 39419,42747,Incident,1997-09-24,"SALT LAKE CITY, UT",United States,Incident,Minor,,Boeing,737200Rs,No,2.0,Turbo Jet,SCHD,0.0,0.0,1.0,68.0,VMC,Takeoff,Probable Cause,1997,Boeing-737200Rs,69.0,0.0,0.0,100.0
@@ -841,6 +856,7 @@
 39550,42889,Incident,1997-10-16,"SEATTLE, WA",United States,Incident,Minor,,Boeing,757222,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,196.0,VMC,Climb,Probable Cause,1997,Boeing-757222,196.0,0.0,0.0,100.0
 39622,42965,Accident,1997-10-30,"COMOX LAKE, Canada",Canada,Fatal(2),Destroyed,,Boeing,234,No,,Unknown,UNK,2.0,0.0,0.0,0.0,VMC,,Foreign,1997,Boeing-234,2.0,100.0,0.0,0.0
 39760,43117,Incident,1997-12-05,"MONTEVIDEO, Uruguay",Uruguay,Incident,,Airplane,Boeing,707320,No,,Unknown,UNK,0.0,0.0,0.0,3.0,VMC,,Foreign,1997,Boeing-707320,3.0,0.0,0.0,100.0
+39786,43147,Accident,1997-12-11,"VENTURA, CA",United States,Non-Fatal,,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,1.0,0.0,16.0,VMC,Cruise,Probable Cause,1997,Saab_Scania-340B,17.0,0.0,5.882352941176469,94.11764705882351
 39822,43184,Accident,1997-12-19,,Indonesia,Fatal(97),Destroyed,,Boeing,737300,No,,Unknown,UNK,97.0,0.0,0.0,0.0,UNK,,Foreign,1997,Boeing-737300,97.0,100.0,0.0,0.0
 39843,43211,Incident,1997-12-25,"EUGENE, OR",United States,Incident,,,Boeing,737522,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,105.0,VMC,Standing,Probable Cause,1997,Boeing-737522,105.0,0.0,0.0,100.0
 39849,43218,Accident,1997-12-28,PACIFIC OCEAN,PACIFIC OCEAN,Fatal(1),Minor,,Boeing,747122,No,,Unknown,SCHD,1.0,18.0,171.0,203.0,VMC,Cruise,Probable Cause,1997,Boeing-747122,393.0,0.2544529262086514,4.580152671755725,95.16539440203562
@@ -853,11 +869,13 @@
 39997,43381,Accident,1998-02-09,"CHICAGO, IL",United States,Non-Fatal,Substantial,,Boeing,727223,No,3.0,Turbo Jet,SCHD,0.0,0.0,23.0,99.0,IMC,Approach,Probable Cause,1998,Boeing-727223,122.0,0.0,0.0,100.0
 40002,43386,Accident,1998-02-11,"MORGAN HILL, CA",United States,Fatal(1),Substantial,,Boeing,Ch47D,No,2.0,Turbo Shaft,,1.0,0.0,0.0,4.0,VMC,Cruise,Probable Cause,1998,Boeing-Ch47D,5.0,20.0,0.0,80.0
 40014,43403,Incident,1998-02-17,"BRUSSELS, Belgium",Belgium,Incident,Minor,Airplane,Boeing,757200,No,,Unknown,SCHD,0.0,0.0,0.0,2.0,UNK,,Foreign,1998,Boeing-757200,2.0,0.0,0.0,100.0
+40031,43421,Incident,1998-02-22,"LAWTON, OK",United States,Incident,Minor,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,6.0,VMC,Cruise,Probable Cause,1998,Saab_Scania-340B,6.0,0.0,0.0,100.0
 40082,43479,Accident,1998-03-04,"RENO, NV",United States,Non-Fatal,,,Boeing,737242C,No,2.0,Turbo Jet,SCHD,0.0,1.0,5.0,110.0,VMC,Cruise,Probable Cause,1998,Boeing-737242C,116.0,0.0,0.8620689655172413,99.13793103448276
 40107,43506,Accident,1998-03-10,"MOMBOSA, Kenya",Kenya,Fatal(6),Destroyed,Airplane,Boeing,707336,No,,Unknown,NSCH,6.0,0.0,0.0,0.0,UNK,,Foreign,1998,Boeing-707336,6.0,100.0,0.0,0.0
 40112,43511,Incident,1998-03-11,"ANCHORAGE, AK",United States,Incident,,,Boeing,737205,No,2.0,Turbo Fan,,0.0,0.0,0.0,81.0,UNK,Standing,Probable Cause,1998,Boeing-737205,81.0,0.0,0.0,100.0
 40141,43542,Accident,1998-03-15,"CHAMBLEE, GA",United States,Non-Fatal,Substantial,,Boeing,A75N1,No,1.0,Reciprocating,,0.0,0.0,2.0,0.0,VMC,Landing,Probable Cause,1998,Boeing-A75N1,2.0,0.0,0.0,100.0
 40142,43543,Incident,1998-03-17,"BRAZIL, Brazil",Brazil,Incident,,,Boeing,757,No,,Unknown,NSCH,0.0,0.0,0.0,7.0,UNK,,Foreign,1998,Boeing-757,7.0,0.0,0.0,100.0
+40145,43546,Accident,1998-03-18,"TAIPAI, Taiwan",Taiwan,Fatal(13),Destroyed,,Saab_Scania,340,No,,Unknown,NSCH,13.0,0.0,0.0,0.0,UNK,,Foreign,1998,Saab_Scania-340,13.0,100.0,0.0,0.0
 40186,43590,Accident,1998-03-24,"GRAND JUNCTION, CO",United States,Non-Fatal,Substantial,,Boeing,A75N Pt17,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Takeoff,Probable Cause,1998,Boeing-A75N Pt17,1.0,0.0,0.0,100.0
 40209,43617,Accident,1998-03-30,"FORT LAUDERDALE, FL",United States,Non-Fatal,Minor,,Boeing,727212,No,3.0,Turbo Fan,NSCH,0.0,3.0,14.0,177.0,VMC,Takeoff,Probable Cause,1998,Boeing-727212,194.0,0.0,1.5463917525773196,98.4536082474227
 40294,43718,Accident,1998-04-18,ATLANTIC OCEAN,ATLANTIC OCEAN,Non-Fatal,Minor,,Boeing,747200,No,4.0,Turbo Fan,SCHD,0.0,2.0,18.0,399.0,VMC,Cruise,Probable Cause,1998,Boeing-747200,419.0,0.0,0.4773269689737471,99.52267303102627
@@ -871,8 +889,10 @@
 40424,43873,Accident,1998-05-12,"CAIRO, EGYPT",Egypt,Non-Fatal,Substantial,,Boeing,767,No,,Unknown,UNK,0.0,0.0,0.0,2.0,UNK,,Foreign,1998,Boeing-767,2.0,0.0,0.0,100.0
 40480,43934,Incident,1998-05-18,"MINNEAPOLIS, MN",United States,Incident,,,Boeing,747123,No,4.0,Turbo Fan,NSCH,0.0,0.0,0.0,3.0,UNK,Cruise,Probable Cause,1998,Boeing-747123,3.0,0.0,0.0,100.0
 40517,43974,Accident,1998-05-24,"WICHITA, KS",United States,Non-Fatal,,,Boeing,7572B7,No,2.0,Turbo Fan,SCHD,0.0,1.0,6.0,121.0,VMC,Cruise,Probable Cause,1998,Boeing-7572B7,128.0,0.0,0.78125,99.21875
+40620,44097,Accident,1998-06-08,"REDDING, CA",United States,Non-Fatal,Substantial,,Saab_Scania,91B,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Takeoff,Probable Cause,1998,Saab_Scania-91B,2.0,0.0,0.0,100.0
 40675,44160,Accident,1998-06-17,"DENVER, CO",United States,Non-Fatal,Substantial,,Boeing,737322,No,2.0,Turbo Fan,SCHD,0.0,0.0,2.0,70.0,VMC,Taxi,Probable Cause,1998,Boeing-737322,72.0,0.0,0.0,100.0
 40719,44212,Incident,1998-06-22,"LARNACA, Cyprus",Cyprus,Incident,Minor,,Boeing,7572Y0,No,,Unknown,UNK,0.0,0.0,0.0,217.0,VMC,,Foreign,1998,Boeing-7572Y0,217.0,0.0,0.0,100.0
+40741,44236,Accident,1998-06-26,"OCEANA, VA",United States,Non-Fatal,Substantial,,Saab_Scania,F35 Draken,No,1.0,Turbo Jet,,0.0,0.0,0.0,1.0,VMC,Climb,Probable Cause,1998,Saab_Scania-F35 Draken,1.0,0.0,0.0,100.0
 40783,44286,Incident,1998-07-02,"BRAZIL, Brazil",Brazil,Incident,,Airplane,Boeing,737400,No,,Unknown,SCHD,0.0,0.0,0.0,5.0,UNK,,Foreign,1998,Boeing-737400,5.0,0.0,0.0,100.0
 40824,44337,Incident,1998-07-07,"BIRMINGHAM, AL",United States,Incident,Minor,,Boeing,7377H4,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,96.0,VMC,Descent,Probable Cause,1998,Boeing-7377H4,96.0,0.0,0.0,100.0
 40880,44405,Accident,1998-07-15,"WEST MILFORD, NJ",United States,Non-Fatal,Substantial,,Boeing,A75N1 Pt17,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Takeoff,Probable Cause,1998,Boeing-A75N1 Pt17,2.0,0.0,0.0,100.0
@@ -897,8 +917,10 @@
 41466,45060,Accident,1998-10-07,"MIAMI, FL",United States,Non-Fatal,Substantial,,Boeing,727224,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,81.0,VMC,Takeoff,Probable Cause,1998,Boeing-727224,81.0,0.0,0.0,100.0
 41532,45135,Incident,1998-10-21,"HONOLULU, HI",United States,Incident,,,Boeing,Md11,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,3.0,VMC,Climb,Probable Cause,1998,Boeing-Md11,3.0,0.0,0.0,100.0
 41576,45187,Accident,1998-11-01,"ATLANTA, GA",United States,Non-Fatal,Substantial,,Boeing,737200,No,2.0,Turbo Fan,SCHD,0.0,0.0,13.0,92.0,VMC,Climb,Probable Cause,1998,Boeing-737200,105.0,0.0,0.0,100.0
+41582,45194,Accident,1998-11-03,"MEMPHIS, TN",United States,Fatal(1),Minor,Airplane,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,1.0,0.0,0.0,11.0,VMC,Standing,Probable Cause,1998,Saab_Scania-340A,12.0,8.333333333333332,0.0,91.66666666666666
 41596,45211,Incident,1998-11-06,"NEWARK, NJ",United States,Incident,Minor,,Boeing,7373To,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,110.0,VMC,Landing,Probable Cause,1998,Boeing-7373To,110.0,0.0,0.0,100.0
 41617,45235,Accident,1998-11-11,"CONCEPCION, Bolivia",Bolivia,Non-Fatal,,Airplane,Boeing,777222B,No,,Turbo Fan,SCHD,0.0,1.0,0.0,227.0,UNK,,Foreign,1998,Boeing-777222B,228.0,0.0,0.43859649122807015,99.56140350877192
+41619,45237,Incident,1998-11-11,"MELBOURNE, Australia",Australia,Incident,,Airplane,Saab_Scania,340,No,,Unknown,SCHD,0.0,0.0,1.0,30.0,IMC,,Foreign,1998,Saab_Scania-340,31.0,0.0,0.0,100.0
 41623,45241,Accident,1998-11-11,"ANCHORAGE, AK",United States,Non-Fatal,Substantial,,Boeing,747400,No,4.0,Turbo Fan,SCHD,0.0,0.0,1.0,249.0,IMC,Taxi,Probable Cause,1998,Boeing-747400,250.0,0.0,0.0,100.0
 41673,45299,Accident,1998-11-25,"LAS VEGAS, NV",United States,Non-Fatal,Substantial,,Boeing,767300Er,No,,Unknown,NSCH,0.0,0.0,0.0,329.0,VMC,,Foreign,1998,Boeing-767300Er,329.0,0.0,0.0,100.0
 41675,45301,Accident,1998-11-25,"VACAVILLE, CA",United States,Non-Fatal,Substantial,,Boeing,A75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Landing,Probable Cause,1998,Boeing-A75N1,1.0,0.0,0.0,100.0
@@ -917,14 +939,17 @@
 41948,45604,Accident,1999-02-07,"SLOVAK REPUBLIC, SLOVAKIA",Slovakia,Non-Fatal,Substantial,Airplane,Boeing,707,No,,Unknown,SCHD,0.0,0.0,0.0,4.0,UNK,,Foreign,1999,Boeing-707,4.0,0.0,0.0,100.0
 41950,45606,Incident,1999-02-08,"AMSTERDAM, Netherlands",Netherlands,Incident,Minor,Airplane,Boeing,747200,No,,Unknown,SCHD,0.0,0.0,0.0,3.0,UNK,,Foreign,1999,Boeing-747200,3.0,0.0,0.0,100.0
 42012,45672,Accident,1999-02-22,"COVINGTON, KY",United States,Non-Fatal,Substantial,,Boeing,757,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,132.0,VMC,Takeoff,Probable Cause,1999,Boeing-757,132.0,0.0,0.0,100.0
+42039,45707,Accident,1999-03-03,"ATLANTIC CITY, NJ",United States,Non-Fatal,,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,1.0,0.0,32.0,IMC,Descent,Probable Cause,1999,Saab_Scania-340A,33.0,0.0,3.0303030303030303,96.96969696969695
 42048,45717,Accident,1999-03-05,"MADRAS, India",India,Non-Fatal,Destroyed,Airplane,Boeing,747200F,No,,Unknown,SCHD,0.0,0.0,0.0,2.0,UNK,,Foreign,1999,Boeing-747200F,2.0,0.0,0.0,100.0
 42070,45739,Incident,1999-03-10,"CALGARY, Canada",Canada,Incident,Minor,Airplane,Boeing,727200,No,,Unknown,SCHD,0.0,0.0,0.0,96.0,UNK,,Foreign,1999,Boeing-727200,96.0,0.0,0.0,100.0
 42105,45777,Accident,1999-03-17,"NEWARK, NJ",United States,Non-Fatal,,,Boeing,737300,No,2.0,Turbo Fan,SCHD,0.0,1.0,0.0,108.0,VMC,Standing,Probable Cause,1999,Boeing-737300,109.0,0.0,0.9174311926605504,99.08256880733946
 42119,45795,Incident,1999-03-20,"GENEVA, Switzerland",Switzerland,Incident,Minor,Airplane,Boeing,Md8087,No,,Unknown,SCHD,0.0,0.0,0.0,2.0,UNK,,Foreign,1999,Boeing-Md8087,2.0,0.0,0.0,100.0
 42203,45885,Accident,1999-04-07,"CEYHAN ADANA, Turkey",Turkey,Fatal(6),Destroyed,,Boeing,737400,No,2.0,Turbo Fan,NSCH,6.0,0.0,0.0,0.0,IMC,,Foreign,1999,Boeing-737400,6.0,100.0,0.0,0.0
+42217,45904,Accident,1999-04-12,"BOSTON, MA",United States,Non-Fatal,Substantial,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,9.0,VMC,Standing,Probable Cause,1999,Saab_Scania-340B,9.0,0.0,0.0,100.0
 42239,45930,Accident,1999-04-15,"CASA GRANDE, AZ",United States,Non-Fatal,Substantial,,Boeing,A75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Landing,Probable Cause,1999,Boeing-A75N1,2.0,0.0,0.0,100.0
 42310,46011,Accident,1999-04-30,"CHEHALIS, WA",United States,Non-Fatal,Substantial,,Boeing,B75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,1.0,VMC,Landing,Probable Cause,1999,Boeing-B75N1,1.0,0.0,0.0,100.0
 42346,46053,Accident,1999-05-05,"CHICAGO, IL",United States,Non-Fatal,,,Boeing,737222,No,2.0,Turbo Jet,SCHD,0.0,1.0,0.0,47.0,IMC,Descent,Probable Cause,1999,Boeing-737222,48.0,0.0,2.083333333333333,97.91666666666666
+42360,46069,Accident,1999-05-08,"JAMAICA, NY",United States,Non-Fatal,Substantial,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,1.0,0.0,29.0,IMC,Landing,Probable Cause,1999,Saab_Scania-340B,30.0,0.0,3.333333333333333,96.66666666666669
 42475,46203,Accident,1999-05-25,"NEWARK, NJ",United States,Non-Fatal,,,Boeing,737,No,2.0,Turbo Fan,SCHD,0.0,1.0,0.0,76.0,VMC,Descent,Probable Cause,1999,Boeing-737,77.0,0.0,1.2987012987012987,98.7012987012987
 42486,46214,Accident,1999-05-28,"STERLING, VA",United States,Non-Fatal,Substantial,,Boeing,727,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,90.0,VMC,Taxi,Probable Cause,1999,Boeing-727,90.0,0.0,0.0,100.0
 42524,46257,Accident,1999-06-02,"PHOENIX, AZ",United States,Non-Fatal,Substantial,,Boeing,757232,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,127.0,VMC,Landing,Probable Cause,1999,Boeing-757232,127.0,0.0,0.0,100.0
@@ -966,10 +991,12 @@
 43754,47640,Accident,1999-12-22,"STANSTED, United Kingdom",United Kingdom,Fatal(4),Destroyed,,Boeing,747200F,No,,Unknown,NSCH,4.0,0.0,0.0,0.0,IMC,,Foreign,1999,Boeing-747200F,4.0,100.0,0.0,0.0
 43762,47648,Incident,1999-12-24,"SALT LAKE CITY, UT",United States,Incident,Minor,,Boeing,737347,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,135.0,VMC,Takeoff,Probable Cause,1999,Boeing-737347,135.0,0.0,0.0,100.0
 43791,47682,Incident,2000-01-02,"AMSTERDAM, Netherlands",Netherlands,Incident,Minor,Airplane,Boeing,7373K2,No,,Unknown,NSCH,0.0,0.0,0.0,143.0,UNK,,Foreign,2000,Boeing-7373K2,143.0,0.0,0.0,100.0
+43816,47712,Accident,2000-01-10,"ZURICH, Switzerland",Switzerland,Fatal(10),Destroyed,,Saab_Scania,340,No,,Unknown,SCHD,10.0,0.0,0.0,0.0,UNK,,Foreign,2000,Saab_Scania-340,10.0,100.0,0.0,0.0
 43820,47716,Accident,2000-01-11,"LAS VEGAS, NV",United States,Non-Fatal,,,Boeing,7572G7,No,2.0,Turbo Fan,SCHD,0.0,1.0,1.0,42.0,VMC,Cruise,Probable Cause,2000,Boeing-7572G7,44.0,0.0,2.272727272727273,97.72727272727272
 43892,47792,Accident,2000-02-03,"TANZANIA, SUDAN",Sudan,Non-Fatal,Substantial,,Boeing,B707,No,,Unknown,UNK,0.0,0.0,0.0,5.0,VMC,,Foreign,2000,Boeing-B707,5.0,0.0,0.0,100.0
 43894,47794,Accident,2000-02-03,"BOSTON, MA",United States,Non-Fatal,,,Boeing,737300,No,2.0,Turbo Jet,SCHD,0.0,1.0,0.0,59.0,VMC,Cruise,Probable Cause,2000,Boeing-737300,60.0,0.0,1.6666666666666667,98.33333333333331
 43934,47838,Accident,2000-02-12,"SAN SALVADOR, EL SALVADOR",El Salvador,Non-Fatal,Substantial,,Boeing,757232,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,161.0,VMC,Landing,Probable Cause,2000,Boeing-757232,161.0,0.0,0.0,100.0
+43940,47844,Incident,2000-02-12,"BOSTON, MA",United States,Incident,Minor,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,2.0,9.0,VMC,Standing,Probable Cause,2000,Saab_Scania-340B,11.0,0.0,0.0,100.0
 43941,47845,Accident,2000-02-12,"LUANDA, Angola",Angola,Non-Fatal,Destroyed,Airplane,Boeing,B 727100,No,,Unknown,NSCH,0.0,0.0,0.0,7.0,IMC,,Foreign,2000,Boeing-B 727100,7.0,0.0,0.0,100.0
 43988,47895,Accident,2000-02-22,"Harare, Zimbabwe",Zimbabwe,Non-Fatal,,,Boeing,B767300Er,No,,,SCHD,0.0,0.0,0.0,1.0,VMC,,Foreign,2000,Boeing-B767300Er,1.0,0.0,0.0,100.0
 44003,47911,Accident,2000-02-27,"PORTO ALEGRE, BRAZIL",Brazil,Non-Fatal,Substantial,Airplane,Boeing,B737400,No,,Unknown,SCHD,0.0,0.0,0.0,123.0,IMC,,Foreign,2000,Boeing-B737400,123.0,0.0,0.0,100.0
@@ -983,6 +1010,7 @@
 44184,48109,Accident,2000-04-02,"GUAYAQUIL, ECUADOR",Ecuador,Non-Fatal,Substantial,Airplane,Boeing,747200F,No,,Turbo Fan,NSCH,0.0,0.0,0.0,3.0,UNK,,Foreign,2000,Boeing-747200F,3.0,0.0,0.0,100.0
 44189,48116,Accident,2000-04-02,"DALLAS, TX",United States,Non-Fatal,,,Boeing,7572G7,No,2.0,Turbo Fan,SCHD,0.0,1.0,2.0,196.0,IMC,Cruise,Probable Cause,2000,Boeing-7572G7,199.0,0.0,0.5025125628140703,99.49748743718591
 44270,48213,Accident,2000-04-19,"SAMAL ISLAND, Philippines",Philippines,Fatal(131),Destroyed,Airplane,Boeing,737200,No,,Unknown,SCHD,131.0,0.0,0.0,0.0,IMC,,Foreign,2000,Boeing-737200,131.0,100.0,0.0,0.0
+44302,48248,Accident,2000-04-25,"HANCOCK, MI",United States,Non-Fatal,Substantial,,Saab_Scania,Sf340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,21.0,VMC,Takeoff,Probable Cause,2000,Saab_Scania-Sf340B,21.0,0.0,0.0,100.0
 44305,48251,Incident,2000-04-25,"CHICAGO, IL",United States,Incident,,,Boeing,777223Er,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,167.0,VMC,Takeoff,Probable Cause,2000,Boeing-777223Er,167.0,0.0,0.0,100.0
 44427,48402,Accident,2000-05-20,"NASHVILLE, TN",United States,Non-Fatal,,Airplane,Boeing,737500,No,,Turbo Fan,SCHD,0.0,1.0,0.0,123.0,IMC,Standing,Probable Cause,2000,Boeing-737500,124.0,0.0,0.8064516129032258,99.19354838709677
 44456,48431,Accident,2000-05-24,"SEATTLE, WA",United States,Non-Fatal,,,Boeing,767200,No,2.0,Turbo Fan,NSCH,0.0,0.0,0.0,4.0,VMC,Taxi,Probable Cause,2000,Boeing-767200,4.0,0.0,0.0,100.0
@@ -1060,6 +1088,7 @@
 46989,51308,Incident,2001-08-16,"DFW Airport, TX",United States,Incident,Minor,,Boeing,737347,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,190.0,VMC,Takeoff,Probable Cause,2001,Boeing-737347,190.0,0.0,0.0,100.0
 47046,51372,Accident,2001-08-25,"KANSAS CITY, MO",United States,Non-Fatal,Substantial,,Boeing,7373G7,No,2.0,Turbo Fan,SCHD,0.0,0.0,1.0,58.0,IMC,Landing,Probable Cause,2001,Boeing-7373G7,59.0,0.0,0.0,100.0
 47110,51448,Accident,2001-09-05,"DENVER, CO",United States,Fatal(1),Substantial,,Boeing,777236,No,2.0,Turbo Fan,SCHD,1.0,0.0,0.0,26.0,VMC,Standing,Probable Cause,2001,Boeing-777236,27.0,3.7037037037037033,0.0,96.29629629629628
+47117,51456,Accident,2001-09-06,"TIJUANA, MEXICO",Mexico,Non-Fatal,Substantial,Airplane,Saab_Scania,340B,No,,,SCHD,0.0,0.0,5.0,27.0,VMC,,Foreign,2001,Saab_Scania-340B,32.0,0.0,0.0,100.0
 47124,51463,Accident,2001-09-07,"Buenos Aires, Argentina",Argentina,Non-Fatal,,Airplane,Boeing,B767332,No,,,SCHD,0.0,1.0,0.0,89.0,IMC,,Foreign,2001,Boeing-B767332,90.0,0.0,1.1111111111111112,98.88888888888887
 47134,51474,Accident,2001-09-09,"WATKINS, CO",United States,Non-Fatal,Substantial,,Boeing,A75N1 Pt17,No,1.0,Reciprocating,,0.0,0.0,1.0,1.0,VMC,Go-around,Probable Cause,2001,Boeing-A75N1 Pt17,2.0,0.0,0.0,100.0
 47142,51483,Accident,2001-09-11,"Shanksville, PA",United States,Fatal(44),Destroyed,,Boeing,757,No,,,SCHD,44.0,0.0,0.0,0.0,UNK,Cruise,Probable Cause,2001,Boeing-757,44.0,100.0,0.0,0.0
@@ -1109,12 +1138,15 @@
 48441,52947,Accident,2002-07-01,"Uberlingen, Germany",Germany,Fatal(71),Destroyed,,Boeing,75723F,No,,,SCHD,71.0,0.0,0.0,0.0,UNK,,Foreign,2002,Boeing-75723F,71.0,100.0,0.0,0.0
 48451,52958,Incident,2002-07-02,"Asuncion, Paraguay",Paraguay,Incident,,,Boeing,767300,No,,,SCHD,0.0,0.0,0.0,144.0,UNK,,Foreign,2002,Boeing-767300,144.0,0.0,0.0,100.0
 48462,52977,Accident,2002-07-04,"Bangui, Central African Republic",Central African Republic,Fatal(23),Destroyed,,Boeing,707,No,,,NSCH,23.0,2.0,0.0,0.0,VMC,,Foreign,2002,Boeing-707,25.0,92.0,8.0,0.0
+48533,53063,Accident,2002-07-16,"Tupelo, MS",United States,Non-Fatal,,,Saab_Scania,Sf340B,No,2.0,Turbo Prop,SCHD,0.0,1.0,0.0,2.0,VMC,Standing,Probable Cause,2002,Saab_Scania-Sf340B,3.0,0.0,33.33333333333333,66.66666666666666
+48564,53100,Accident,2002-07-21,"CHARLESTON, WV",United States,Non-Fatal,Substantial,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,35.0,VMC,Standing,Probable Cause,2002,Saab_Scania-340A,35.0,0.0,0.0,100.0
 48605,53141,Accident,2002-07-26,"Tallahassee, FL",United States,Non-Fatal,Destroyed,,Boeing,727232,No,3.0,Turbo Jet,NSCH,0.0,3.0,0.0,0.0,VMC,Approach,Probable Cause,2002,Boeing-727232,3.0,0.0,100.0,0.0
 48619,53156,Accident,2002-07-28,"Leesburg, FL",United States,Non-Fatal,Destroyed,,Boeing,E75,No,,Reciprocating,,0.0,0.0,2.0,0.0,VMC,Takeoff,Probable Cause,2002,Boeing-E75,2.0,0.0,0.0,100.0
 48713,53259,Accident,2002-08-10,"CASA GRANDE, AZ",United States,Non-Fatal,Substantial,,Boeing,B75N1,No,,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Takeoff,Probable Cause,2002,Boeing-B75N1,2.0,0.0,0.0,100.0
 48724,53275,Accident,2002-08-11,"Jamaica, NY",United States,Non-Fatal,Minor,,Boeing,747256,No,4.0,Turbo Fan,SCHD,0.0,2.0,35.0,349.0,VMC,Takeoff,Probable Cause,2002,Boeing-747256,386.0,0.0,0.5181347150259068,99.48186528497408
 48734,53286,Accident,2002-08-13,"WATKINS, CO",United States,Non-Fatal,Substantial,,Boeing,D75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Landing,Probable Cause,2002,Boeing-D75N1,2.0,0.0,0.0,100.0
 48798,53358,Incident,2002-08-24,"Buenos Aires, Argentina",Argentina,Incident,,,Boeing,767332Er,No,,,SCHD,0.0,0.0,0.0,208.0,VMC,,Foreign,2002,Boeing-767332Er,208.0,0.0,0.0,100.0
+48867,53438,Incident,2002-09-04,"Detroit, MI",United States,Incident,,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,25.0,VMC,Climb,Probable Cause,2002,Saab_Scania-340A,25.0,0.0,0.0,100.0
 48891,53472,Accident,2002-09-09,"BALTIMORE, MD",United States,Non-Fatal,Substantial,,Boeing,757251,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,103.0,VMC,Landing,Probable Cause,2002,Boeing-757251,103.0,0.0,0.0,100.0
 48908,53492,Incident,2002-09-13,"Miami, FL",United States,Incident,Minor,,Boeing,737823,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,105.0,VMC,Standing,Probable Cause,2002,Boeing-737823,105.0,0.0,0.0,100.0
 49029,53633,Incident,2002-10-09,"Anchorage, AK",United States,Incident,,,Boeing,747400,No,4.0,Turbo Fan,SCHD,0.0,0.0,0.0,404.0,VMC,Cruise,Probable Cause,2002,Boeing-747400,404.0,0.0,0.0,100.0
@@ -1145,6 +1177,7 @@
 49888,54585,Accident,2003-05-07,"BOSTON, MA",United States,Non-Fatal,Substantial,,Bombardier,Cl6002B19,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,3.0,VMC,Standing,Probable Cause,2003,Bombardier-Cl6002B19,3.0,0.0,0.0,100.0
 49890,54587,Accident,2003-05-07,"New Market, VA",United States,Non-Fatal,,,Boeing,B767300,No,2.0,Turbo Fan,SCHD,0.0,1.0,0.0,147.0,VMC,Descent,Probable Cause,2003,Boeing-B767300,148.0,0.0,0.6756756756756757,99.32432432432432
 49955,54660,Accident,2003-05-20,"SANTA ANA, CA",United States,Non-Fatal,Substantial,,Boeing,757223,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,103.0,VMC,Taxi,Probable Cause,2003,Boeing-757223,103.0,0.0,0.0,100.0
+49958,54663,Accident,2003-05-21,"FLUSHING, NY",United States,Non-Fatal,Substantial,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,1.0,17.0,VMC,Taxi,Probable Cause,2003,Saab_Scania-340B,18.0,0.0,0.0,100.0
 49974,54680,Accident,2003-05-24,"AMARILLO, TX",United States,Non-Fatal,Substantial,,Boeing,737300,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,68.0,IMC,Approach,Probable Cause,2003,Boeing-737300,68.0,0.0,0.0,100.0
 50089,54809,Incident,2003-06-10,"Dodge City, KS",United States,Incident,,,Boeing,757200,No,2.0,Turbo Fan,SCHD,0.0,0.0,1.0,173.0,VMC,Cruise,Probable Cause,2003,Boeing-757200,174.0,0.0,0.0,100.0
 50103,54827,Accident,2003-06-12,"Fort Worth, TX",United States,Non-Fatal,,,Boeing,Md82,No,2.0,Turbo Jet,SCHD,0.0,2.0,0.0,132.0,VMC,Descent,Probable Cause,2003,Boeing-Md82,134.0,0.0,1.4925373134328357,98.50746268656715
@@ -1173,7 +1206,9 @@
 51054,55923,Incident,2003-11-29,"Denver, CO",United States,Incident,,,Boeing,7373M8,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,135.0,VMC,Approach,Probable Cause,2003,Boeing-7373M8,135.0,0.0,0.0,100.0
 51154,56036,Accident,2003-12-25,"Cotonou, Benin",Benin,Fatal(141),Destroyed,,Boeing,727223,No,,,NSCH,141.0,25.0,0.0,0.0,VMC,,Foreign,2003,Boeing-727223,166.0,84.93975903614458,15.06024096385542,0.0
 51236,56124,Incident,2004-01-17,"Rapid City, SD",United States,Incident,Minor,,Bombardier,Cl6002B19,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,35.0,IMC,Landing,Probable Cause,2004,Bombardier-Cl6002B19,35.0,0.0,0.0,100.0
+51281,56173,Accident,2004-02-01,"PITTSBURGH, PA",United States,Non-Fatal,Substantial,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,22.0,VMC,Standing,Probable Cause,2004,Saab_Scania-340A,22.0,0.0,0.0,100.0
 51357,56252,Incident,2004-02-19,"Miami, FL",United States,Incident,,,Boeing,767300 Er,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,290.0,VMC,Landing,Probable Cause,2004,Boeing-767300 Er,290.0,0.0,0.0,100.0
+51374,56271,Accident,2004-02-24,"ROMULUS, MI",United States,Non-Fatal,Substantial,,Saab_Scania,Saab 340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,32.0,VMC,Taxi,Probable Cause,2004,Saab_Scania-Saab 340B,32.0,0.0,0.0,100.0
 51375,56272,Incident,2004-02-24,"Seattle, WA",United States,Incident,,,Boeing,737300,No,,Turbo Fan,SCHD,0.0,0.0,0.0,94.0,VMC,Approach,Probable Cause,2004,Boeing-737300,94.0,0.0,0.0,100.0
 51400,56301,Accident,2004-03-01,"Janesville, WI",United States,Non-Fatal,,,Boeing,757200,No,2.0,Turbo Fan,SCHD,0.0,1.0,0.0,175.0,VMC,Descent,Probable Cause,2004,Boeing-757200,176.0,0.0,0.5681818181818182,99.43181818181816
 51411,56312,Incident,2004-03-05,"Atlanta, GA",United States,Incident,,,Boeing,717200,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,118.0,VMC,Takeoff,Probable Cause,2004,Boeing-717200,118.0,0.0,0.0,100.0
@@ -1205,8 +1240,10 @@
 52595,57658,Accident,2004-10-14,"Halifax, Canada",Canada,Fatal(7),Destroyed,,Boeing,747244Bc,No,,,NSCH,7.0,0.0,0.0,0.0,UNK,,Foreign,2004,Boeing-747244Bc,7.0,100.0,0.0,0.0
 52624,57693,Incident,2004-10-19,,Argentina,Incident,,,Boeing,757,No,,,NSCH,0.0,0.0,0.0,12.0,UNK,,Foreign,2004,Boeing-757,12.0,0.0,0.0,100.0
 52626,57695,Accident,2004-10-20,,United States,Non-Fatal,Substantial,,Boeing,747132,No,4.0,Turbo Fan,NSCH,0.0,0.0,0.0,5.0,VMC,Climb,Probable Cause,2004,Boeing-747132,5.0,0.0,0.0,100.0
+52655,57725,Accident,2004-10-25,"Fort Worth, TX",United States,Non-Fatal,,,Saab_Scania,Sf340B,No,2.0,Turbo Prop,SCHD,0.0,1.0,0.0,31.0,VMC,Taxi,Probable Cause,2004,Saab_Scania-Sf340B,32.0,0.0,3.125,96.875
 52661,57735,Accident,2004-10-27,"PHILADELPHIA, PA",United States,Non-Fatal,Substantial,,Bombardier,Cl6002B19,No,2.0,Turbo Fan,SCHD,0.0,0.0,1.0,41.0,VMC,Taxi,Probable Cause,2004,Bombardier-Cl6002B19,42.0,0.0,0.0,100.0
 52699,57780,Accident,2004-11-04,"Kota Kinabalu, Malaysia",Malaysia,Non-Fatal,Minor,,Boeing,B737300,No,,,SCHD,0.0,0.0,3.0,2.0,IMC,,Foreign,2004,Boeing-B737300,5.0,0.0,0.0,100.0
+52736,57828,Accident,2004-11-13,"Milwaukee, WI",United States,Non-Fatal,,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,1.0,0.0,28.0,VMC,Standing,Probable Cause,2004,Saab_Scania-340B,29.0,0.0,3.4482758620689653,96.55172413793105
 52763,57863,Accident,2004-11-21,"Baotou, China",China,Fatal(55),Destroyed,,Bombardier,Crj200,No,,,SCHD,55.0,0.0,0.0,0.0,VMC,,Foreign,2004,Bombardier-Crj200,55.0,100.0,0.0,0.0
 52814,57918,Incident,2004-12-05,"Anchorage, AK",United States,Incident,Minor,,Boeing,747Sr146B Sf,No,4.0,Turbo Fan,NSCH,0.0,0.0,0.0,3.0,VMC,Cruise,Probable Cause,2004,Boeing-747Sr146B Sf,3.0,0.0,0.0,100.0
 52840,57947,Incident,2004-12-12,"London, United Kingdom",United Kingdom,Incident,,,Boeing,747,No,,,NSCH,0.0,0.0,0.0,3.0,UNK,,Foreign,2004,Boeing-747,3.0,0.0,0.0,100.0
@@ -1239,6 +1276,7 @@
 53548,58754,Accident,2005-05-31,"Chicago O'Hare, IL",United States,Non-Fatal,Minor,,Bombardier,Cl6002B19,No,2.0,Turbo Fan,SCHD,0.0,1.0,0.0,26.0,VMC,Standing,Probable Cause,2005,Bombardier-Cl6002B19,27.0,0.0,3.7037037037037033,96.29629629629628
 53562,58770,Accident,2005-06-05,"PAULDEN, AZ",United States,Non-Fatal,Substantial,Airplane,Boeing,A75N1,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,Takeoff,Probable Cause,2005,Boeing-A75N1,2.0,0.0,0.0,100.0
 53567,58777,Accident,2005-06-05,"New Chicago, IN",United States,Non-Fatal,,,Boeing,757223,No,2.0,Turbo Fan,SCHD,0.0,1.0,1.0,160.0,VMC,Descent,Probable Cause,2005,Boeing-757223,162.0,0.0,0.6172839506172839,99.38271604938272
+53586,58797,Incident,2005-06-08,"Dulles, VA",United States,Incident,Minor,,Saab_Scania,340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,30.0,VMC,Approach,Probable Cause,2005,Saab_Scania-340A,30.0,0.0,0.0,100.0
 53587,58798,Incident,2005-06-09,"Boston, MA",United States,Incident,,,Boeing,7373B7,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,448.0,VMC,Takeoff,Probable Cause,2005,Boeing-7373B7,448.0,0.0,0.0,100.0
 53591,58802,Incident,2005-06-09,"colorado spring, CO",United States,Incident,,,Bombardier,Cl6002D15,No,,,SCHD,0.0,0.0,0.0,66.0,UNK,Cruise,Probable Cause,2005,Bombardier-Cl6002D15,66.0,0.0,0.0,100.0
 53620,58837,Accident,2005-06-12,"Lagos, Nigeria",Nigeria,Non-Fatal,,,Boeing,727200,No,,,NSCH,0.0,0.0,0.0,155.0,UNK,,Foreign,2005,Boeing-727200,155.0,0.0,0.0,100.0
@@ -1276,6 +1314,7 @@
 54620,59978,Accident,2005-12-19,"LOS ANGELES, CA",United States,Non-Fatal,Substantial,,Boeing,747400,No,4.0,Turbo Fan,SCHD,0.0,0.0,0.0,273.0,VMC,Takeoff,Probable Cause,2005,Boeing-747400,273.0,0.0,0.0,100.0
 54627,59985,Incident,2005-12-20,"Boston, MA",United States,Incident,Minor,,Boeing,717200,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,91.0,VMC,Takeoff,Probable Cause,2005,Boeing-717200,91.0,0.0,0.0,100.0
 54654,60016,Accident,2005-12-26,"FORT WORTH, TX",United States,Fatal(1),Substantial,,Boeing,A75N1 Pt17,No,1.0,Reciprocating,,1.0,1.0,0.0,0.0,VMC,Climb,Probable Cause,2005,Boeing-A75N1 Pt17,2.0,50.0,50.0,0.0
+54695,60058,Incident,2006-01-02,"Santa Maria, CA",United States,Incident,,Airplane,Saab_Scania,Sf340B+,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,28.0,IMC,Climb,Probable Cause,2006,Saab_Scania-Sf340B+,28.0,0.0,0.0,100.0
 54736,60104,Accident,2006-01-16,"El Paso, TX",United States,Fatal(1),Minor,,Boeing,737524,No,2.0,Turbo Jet,SCHD,1.0,0.0,0.0,119.0,VMC,Standing,Probable Cause,2006,Boeing-737524,120.0,0.8333333333333334,0.0,99.16666666666669
 54743,60112,Incident,2006-01-18,"Makassar, Indonesia",Indonesia,Incident,Minor,,Boeing,Md82,,,,SCHD,0.0,0.0,0.0,170.0,IMC,,Foreign,2006,Boeing-Md82,170.0,0.0,0.0,100.0
 54747,60116,Incident,2006-01-19,"Denver, CO",United States,Incident,Minor,,Boeing,B777200B,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,184.0,IMC,Standing,Probable Cause,2006,Boeing-B777200B,184.0,0.0,0.0,100.0
@@ -1284,6 +1323,7 @@
 54874,60263,Incident,2006-02-28,"Paraburdoo, Australia",Australia,Incident,,,Boeing,717200,No,,,SCHD,0.0,0.0,0.0,72.0,IMC,,Foreign,2006,Boeing-717200,72.0,0.0,0.0,100.0
 54888,60277,Incident,2006-03-04,"SURABAYA, INDONESIA",Indonesia,Incident,Substantial,,Boeing,Md82,No,,,SCHD,0.0,0.0,0.0,143.0,VMC,,Foreign,2006,Boeing-Md82,143.0,0.0,0.0,100.0
 54909,60301,Accident,2006-03-08,"SANTA TERESA, NM",United States,Non-Fatal,Substantial,Airplane,Boeing,D75N1,No,1.0,Reciprocating,,0.0,0.0,2.0,0.0,VMC,Landing,Probable Cause,2006,Boeing-D75N1,2.0,0.0,0.0,100.0
+54920,60314,Accident,2006-03-13,"ALPENA, MI",United States,Non-Fatal,Substantial,,Saab_Scania,340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,14.0,VMC,Standing,Probable Cause,2006,Saab_Scania-340B,14.0,0.0,0.0,100.0
 54926,60321,Accident,2006-03-15,"Omaha, NE",United States,Non-Fatal,,,Boeing,757222,No,2.0,Turbo Fan,SCHD,0.0,1.0,0.0,97.0,VMC,Cruise,Probable Cause,2006,Boeing-757222,98.0,0.0,1.020408163265306,98.9795918367347
 54942,60337,Incident,2006-03-19,"Asheville, NC",United States,Incident,Minor,,Bombardier,Cl6002B19,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,33.0,VMC,Climb,Probable Cause,2006,Bombardier-Cl6002B19,33.0,0.0,0.0,100.0
 54962,60358,Incident,2006-03-23,"Chicago, IL",United States,Incident,,,Boeing,737300,No,,,SCHD,0.0,0.0,0.0,121.0,VMC,Takeoff,Probable Cause,2006,Boeing-737300,121.0,0.0,0.0,100.0
@@ -1436,6 +1476,7 @@
 58895,64919,Accident,2008-07-12,"Culpeper, VA",United States,Non-Fatal,Substantial,Airplane,Boeing,B75N1,No,1.0,Reciprocating,,0.0,1.0,0.0,1.0,VMC,,The pilot's failure to maintain directional control of the airplane while landing in a quartering tailwind.,2008,Boeing-B75N1,2.0,0.0,50.0,50.0
 58903,64928,Incident,2008-07-14,"Port Harcourt, Nigeria",Nigeria,Non-Fatal,Minor,Airplane,Boeing,737282,No,,,SCHD,0.0,1.0,0.0,46.0,IMC,,,2008,Boeing-737282,47.0,0.0,2.127659574468085,97.87234042553192
 58969,65004,Accident,2008-07-25,"Manila, Philippines",Philippines,Non-Fatal,Substantial,Airplane,Boeing,747400,No,,,SCHD,0.0,0.0,0.0,365.0,UNK,,,2008,Boeing-747400,365.0,0.0,0.0,100.0
+58996,65032,Incident,2008-07-29,"Anchorage, AK",United States,Non-Fatal,,Airplane,Saab_Scania,Saab 340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,9.0,VMC,,"The failure of one of the stage 1 gas generator rotor blades due to high-cycle fatigue, resulting in a contained engine failure during the takeoff roll.",2008,Saab_Scania-Saab 340B,9.0,0.0,0.0,100.0
 59059,65107,Incident,2008-08-06,"Las Vegas, NV",United States,Non-Fatal,,Airplane,Boeing,757,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,170.0,VMC,,The engine experienced an uncontained release of high pressure turbine material due to fatigue cracks that occurred on four consecutive blade retainig lugs on the 2nd stage turbine hub. The cracked lugs resulted in the release of four 2nd stage turbine blades that penetrated the engine's cases and nacelle. The lugs cracked due to loss of material and resultant increase in stress load on the blade slot serrations due to excessve grit blasting when the hub was being overhauled  by Delta Air Lines. Contributing to the uncontained incident was the FAA's and Pratt & Whitney's failure to act in a timely manner when another PW2037 2nd stage turbine hub was found to have multiple cracks in the blade retaining lugs.,2008,Boeing-757,170.0,0.0,0.0,100.0
 59067,65116,Accident,2008-08-08,"Sterling, MA",United States,Non-Fatal,Substantial,Airplane,Boeing,E75,No,1.0,Reciprocating,,0.0,0.0,0.0,2.0,VMC,,The owner/pilot's improper flare. Contributing to the accident was the pilot-in-command's inadequate remedial action.,2008,Boeing-E75,2.0,0.0,0.0,100.0
 59119,65174,Accident,2008-08-16,"San Francisco, CA",United States,Non-Fatal,,Airplane,Boeing,777300,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,311.0,VMC,,The ground crewman's failure to follow the tow bar disconnect standard operating procedures.,2008,Boeing-777300,311.0,0.0,0.0,100.0

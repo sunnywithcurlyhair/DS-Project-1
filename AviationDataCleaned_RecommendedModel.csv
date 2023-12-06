@@ -93,6 +93,8 @@
 31758,34261,Incident,1993-12-08,"DFW AIRPORT, TX",United States,Incident,Minor,,Boeing,73733A,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,69.0,IMC,Approach,Probable Cause,1993,Boeing-73733A,69.0,0.0,0.0,100.0
 31974,34493,Incident,1994-02-09,"CHICAGO, IL",United States,Incident,Minor,,Boeing,737130,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,100.0,VMC,Landing,Probable Cause,1994,Boeing-737130,100.0,0.0,0.0,100.0
 32387,34944,Incident,1994-04-26,"HONOLULU, HI",United States,Incident,,,Boeing,737209,No,2.0,Turbo Jet,SCHD,0.0,0.0,1.0,58.0,VMC,Approach,Probable Cause,1994,Boeing-737209,59.0,0.0,0.0,100.0
+32420,34982,Incident,1994-05-03,"NASHVILLE, TN",United States,Incident,,,Saab_Scania,S340B,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,16.0,IMC,Cruise,Probable Cause,1994,Saab_Scania-S340B,16.0,0.0,0.0,100.0
+32464,35028,Incident,1994-05-12,"TEXARKANA, AR",United States,Incident,Minor,,Saab_Scania,Sf34Ob,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,28.0,VMC,Takeoff,Probable Cause,1994,Saab_Scania-Sf34Ob,28.0,0.0,0.0,100.0
 33624,36328,Incident,1994-11-02,"CHICAG0, IL",United States,Incident,Minor,,Boeing,747251B,No,4.0,Turbo Jet,,0.0,0.0,0.0,3.0,VMC,Taxi,Probable Cause,1994,Boeing-747251B,3.0,0.0,0.0,100.0
 33874,36596,Incident,1995-01-01,"HOUSTON, TX",United States,Incident,,,Boeing,7373A4,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,66.0,VMC,Approach,Probable Cause,1995,Boeing-7373A4,66.0,0.0,0.0,100.0
 33940,36666,Incident,1995-01-19,"ATLANTA, GA",United States,Incident,Minor,,Boeing,737247,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,28.0,IMC,Landing,Probable Cause,1995,Boeing-737247,28.0,0.0,0.0,100.0
@@ -100,10 +102,12 @@
 34268,37017,Incident,1995-04-03,"DFW AIRPORT, TX",United States,Incident,Minor,,Boeing,727276,No,3.0,Turbo Jet,NSCH,0.0,0.0,2.0,158.0,VMC,Climb,Probable Cause,1995,Boeing-727276,160.0,0.0,0.0,100.0
 34497,37281,Incident,1995-05-19,"NEWARK, NJ",United States,Incident,Minor,Airplane,Boeing,767383Er,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,288.0,VMC,Taxi,Probable Cause,1995,Boeing-767383Er,288.0,0.0,0.0,100.0
 34838,37662,Incident,1995-07-04,"LAS VEGAS, NV",United States,Incident,Minor,,Boeing,727257,No,3.0,Turbo Fan,SCHD,0.0,0.0,0.0,53.0,VMC,Landing,Probable Cause,1995,Boeing-727257,53.0,0.0,0.0,100.0
+34848,37672,Incident,1995-07-05,"TEMPLE, TX",United States,Incident,Minor,,Saab_Scania,Sf340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,6.0,VMC,Takeoff,Probable Cause,1995,Saab_Scania-Sf340A,6.0,0.0,0.0,100.0
 34965,37804,Incident,1995-07-18,"ORLANDO, FL",United States,Incident,,,Boeing,7373B7,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,120.0,VMC,Descent,Probable Cause,1995,Boeing-7373B7,120.0,0.0,0.0,100.0
 35041,37889,Accident,1995-07-28,"DALLAS, TX",United States,Non-Fatal,Minor,,Boeing,7373A4,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,99.0,VMC,Taxi,Probable Cause,1995,Boeing-7373A4,99.0,0.0,0.0,100.0
 35100,37953,Incident,1995-08-05,"CHARLOTTE, NC",United States,Incident,,,Boeing,7373B7,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,83.0,VMC,Descent,Probable Cause,1995,Boeing-7373B7,83.0,0.0,0.0,100.0
 35193,38053,Incident,1995-08-14,"JAMAICA, NY",United States,Incident,Minor,,Boeing,747130,No,4.0,Turbo Fan,SCHD,0.0,0.0,0.0,436.0,VMC,Climb,Probable Cause,1995,Boeing-747130,436.0,0.0,0.0,100.0
+35227,38089,Accident,1995-08-17,"PHILADELPHIA, PA",United States,Non-Fatal,Substantial,,Saab_Scania,Sf340A,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,31.0,VMC,Standing,Probable Cause,1995,Saab_Scania-Sf340A,31.0,0.0,0.0,100.0
 35292,38160,Incident,1995-08-25,"FORT LAUDERDALE, FL",United States,Incident,,,Boeing,7373B7,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,50.0,VMC,Descent,Probable Cause,1995,Boeing-7373B7,50.0,0.0,0.0,100.0
 35682,38605,Incident,1995-10-30,"LAS VEGAS, NV",United States,Incident,,,Boeing,7375H4,No,2.0,Turbo Fan,SCHD,0.0,0.0,1.0,96.0,VMC,Climb,Probable Cause,1995,Boeing-7375H4,97.0,0.0,0.0,100.0
 35693,38617,Incident,1995-11-02,"PORTLAND, ME",United States,Incident,Minor,,Boeing,7373B7,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,62.0,IMC,Takeoff,Probable Cause,1995,Boeing-7373B7,62.0,0.0,0.0,100.0
@@ -178,6 +182,7 @@
 54132,59426,Accident,2005-08-29,"PORTLAND, OR",United States,Non-Fatal,Substantial,,Bombardier,Dhc8202,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,270.0,VMC,Standing,Probable Cause,2005,Bombardier-Dhc8202,270.0,0.0,0.0,100.0
 54478,59819,Accident,2005-11-06,"HEATHROW IAP, UNITED KINGDOM",United Kingdom,Non-Fatal,Substantial,Airplane,Boeing,B777,No,,,SCHD,0.0,0.0,0.0,243.0,UNK,,Foreign,2005,Boeing-B777,243.0,0.0,0.0,100.0
 54609,59967,Incident,2005-12-15,"Houston, TX",United States,Incident,Minor,,Boeing,B737924,No,2.0,Turbo Jet,SCHD,0.0,0.0,0.0,176.0,VMC,Standing,Probable Cause,2005,Boeing-B737924,176.0,0.0,0.0,100.0
+54695,60058,Incident,2006-01-02,"Santa Maria, CA",United States,Incident,,Airplane,Saab_Scania,Sf340B+,No,2.0,Turbo Prop,SCHD,0.0,0.0,0.0,28.0,IMC,Climb,Probable Cause,2006,Saab_Scania-Sf340B+,28.0,0.0,0.0,100.0
 54747,60116,Incident,2006-01-19,"Denver, CO",United States,Incident,Minor,,Boeing,B777200B,No,2.0,Turbo Fan,SCHD,0.0,0.0,0.0,184.0,IMC,Standing,Probable Cause,2006,Boeing-B777200B,184.0,0.0,0.0,100.0
 55383,60837,Incident,2006-06-12,"Accra, Ghana",Ghana,Incident,Minor,,Boeing,7372M2,No,,,SCHD,0.0,0.0,0.0,28.0,UNK,,Foreign,2006,Boeing-7372M2,28.0,0.0,0.0,100.0
 55630,61118,Incident,2006-07-24,"Cancun, Mexico",Mexico,Incident,,,Boeing,B767200,No,,,SCHD,0.0,0.0,4.0,138.0,UNK,,Foreign,2006,Boeing-B767200,142.0,0.0,0.0,100.0
